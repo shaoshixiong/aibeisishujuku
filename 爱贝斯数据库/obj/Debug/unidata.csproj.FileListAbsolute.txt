@@ -1,0 +1,10 @@
+D:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project1\艾贝斯数据库\艾贝斯数据库\bin\Debug\艾贝斯数据库.exe
+D:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project1\艾贝斯数据库\艾贝斯数据库\bin\Debug\艾贝斯数据库.pdb
+D:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project1\艾贝斯数据库\艾贝斯数据库\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project1\艾贝斯数据库\艾贝斯数据库\obj\Debug\艾贝斯数据库.exe
+D:\Users\Administrator\Documents\Visual Studio 2008\Projects\Project1\艾贝斯数据库\艾贝斯数据库\obj\Debug\艾贝斯数据库.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.exe
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\bin\Debug\艾贝斯数据库.exe
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\bin\Debug\艾贝斯数据库.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.csprojResolveAssemblyReference.cache

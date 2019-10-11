@@ -1,0 +1,7 @@
+create table aaaa
+(
+	[a] int primary key,
+	[b] nvarchar(50),
+	[c] nvarchar(50),
+	[d] nvarchar(50)
+);
