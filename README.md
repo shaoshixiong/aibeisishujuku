@@ -1,18 +1,11 @@
 <h2>介绍</h2>
 1.一个简单的数据库demo。
 <br/>
-2.32位多任务图形化。
-<br/>
-3.启动只需1秒。
 <h2>功能</h2>
 1.增删改。<br/>
-2.图片显示。<br/>
-3.文本阅读。<br/>
-4.支持32位真色彩，1920*1080分辨率。<br/>
 <h2>运行</h2>
-1.下载img (软盘镜像) 文件。
+1.运行里面的exe。
 <br/>
-2.下载VM虚拟机，安装之后新建虚拟机添加软盘把路径选择 下载好的img软盘镜像文件，然后启动就可以了。
 <h2>截图</h2>
 <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsL
 DBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/
@@ -305,5 +298,5 @@ db7zz6Q/M5e4nS5X3o3/AKb36YeELC4W0fB6Q5cuXLly5cuXLly5cuXLly5c
 uXLly5cuXLly5cuXLly5cuXLly5cuXLly5cuXLly5cuXLly5cuXLly5cuXLl
 y5cuXLly5AvaIw1T9m77elhAj//Z">
 <h2>版权</h2>
-1.允许随意修改，分发，在此基础上进行修改发布商用，但必须注明“基于火龙操作系统”的说明。<br/>
-2.未经作者许可禁止将代码申请专利。
+1.允许随意修改，分发，在此基础上进行修改发布商用。<br/>
+1.未经作者许可禁止将代码申请专利。
