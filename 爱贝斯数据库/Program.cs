@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using System.Reflection;
 
-namespace unidata
+namespace 艾贝斯数据库
 {
     public class Program
     {
@@ -87,7 +87,7 @@ namespace unidata
                         lssql = sql.Split(' ').ToList();
                         Arrsql = sql.ToUpper().Split(' ').ToList();
                         //反射              
-                        Type type = Type.GetType("unidata.Program");
+                        Type type = Type.GetType("艾贝斯数据库.Program");
                         MethodInfo Info = type.GetMethod(Arrsql[0]);
                         if (Arrsql[0] == string.Empty)
                         {

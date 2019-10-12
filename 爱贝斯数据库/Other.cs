@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace unidata
+namespace 艾贝斯数据库
 {
     public class Other
     {

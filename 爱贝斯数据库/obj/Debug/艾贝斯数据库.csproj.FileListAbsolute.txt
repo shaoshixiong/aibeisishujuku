@@ -1,5 +1,9 @@
-G:\Y2\asp.net\MvcTest20130404\Test\unidata\bin\Debug\unidata.exe
-G:\Y2\asp.net\MvcTest20130404\Test\unidata\bin\Debug\unidata.pdb
-G:\Y2\asp.net\MvcTest20130404\Test\unidata\obj\Debug\艾贝斯数据库.csprojResolveAssemblyReference.cache
-G:\Y2\asp.net\MvcTest20130404\Test\unidata\obj\Debug\unidata.exe
-G:\Y2\asp.net\MvcTest20130404\Test\unidata\obj\Debug\unidata.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\bin\Debug\艾贝斯数据库.exe
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\bin\Debug\艾贝斯数据库.pdb
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.csprojResolveAssemblyReference.cache
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.exe
+G:\Y2\asp.net\MvcTest20130404\Test\艾贝斯数据库\obj\Debug\艾贝斯数据库.pdb
+F:\SVN代码管理\艾贝斯数据库\爱贝斯数据库\obj\Debug\艾贝斯数据库.exe
+F:\SVN代码管理\艾贝斯数据库\爱贝斯数据库\obj\Debug\艾贝斯数据库.pdb
+F:\SVN代码管理\艾贝斯数据库\爱贝斯数据库\bin\Debug\艾贝斯数据库.exe
+F:\SVN代码管理\艾贝斯数据库\爱贝斯数据库\bin\Debug\艾贝斯数据库.pdb
